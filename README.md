@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on   Backend and Frontend technologies 😅
 - 🌱 I’m currently learning     **SQL, JDBC, LLD, AWS** at Masai School.
 - 💬 Ask me about     **Java, JavaScript, HTML, CSS**
-- 👨‍💻 This is [My Portfolio](https://piyushfromit.github.io/)
+- 👨‍💻 This is [My Portfolio](https://Sunnyarya01.github.io/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/1EvBHihvRxjHW00zP09smySCCJ1zxLG1M/view?usp=sharing)
 - 📫 How to reach me:   **kumarsunnysjk123@gmail.com**
 
@@ -39,12 +39,12 @@
 <!--   <br/> -->
 
 <!-- graph -->
-<!--    <a href="https://github.com/Piyushfromit"><img alt="Piyush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Piyushfromit&custom_title=Piyush's%20Contribution%20Graph&theme=react-dark" /></a> -->
+<!--    <a href="https://github.com/Sunnyarya01"><img alt="Sunny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sunnyarya01&custom_title=Sunny's%20Contribution%20Graph&theme=react-dark" /></a> -->
   <br/>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Piyushfromit" alt="Piyush" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sunnyarya01" alt="Sunny" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -59,11 +59,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushfromit&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyushfromit&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyushfromit&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyushfromit&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyushfromit&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunnyarya01&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunnyarya01&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sunnyarya01&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunnyarya01&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunnyarya01&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
